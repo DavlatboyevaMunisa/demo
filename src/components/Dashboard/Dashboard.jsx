@@ -4,7 +4,7 @@ import {HiUserCircle} from 'react-icons/hi'
 import {FaTelegramPlane} from 'react-icons/fa'
 import {AiFillAudio} from 'react-icons/ai'
 import {BsFillCameraFill} from 'react-icons/bs'
-import Demo from '../AIchat/Demo'
+// import Demo from '../AIchat/Demo'
 
 function Dashboard() {
   return (
